@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018442245464",
+    "firebase_url": "https://tourmate-76113.firebaseio.com",
+    "project_id": "tourmate-76113",
+    "storage_bucket": "tourmate-76113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018442245464:android:a566b0d6774dc93b",
+        "android_client_info": {
+          "package_name": "shariful.lictproject.info.ghur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018442245464-q3hr4krke012dga89kvnne8gf88o7ibj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shariful.lictproject.info.ghur",
+            "certificate_hash": "9e2ac5d77005928872d3b50f8431b05c27270783"
+          }
+        },
+        {
+          "client_id": "1018442245464-p9nage43q1a749t4nruisvuh5570678f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS19kEOqfi8_GiQsJ7DXiRcViRev9wBus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018442245464-p9nage43q1a749t4nruisvuh5570678f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
